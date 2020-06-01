@@ -10,7 +10,9 @@ He modificado los archivos denominandolos como _final para los puedas ver. Esos 
 ·Dentro del directorio de irb120_robotiq85:
 
   ·irb120_robotiq85_moveit_config/config : aquí he modificado el fichero irb120_robotiq85.srdf
+  
   ·irb120_robotiq85_gazebo/urdf : aquí he modificado el fichero irb120_robotiq85_macro.xacro
+  
   ·irb120_robotiq85_gazebo/launch : aquí he modificado el fichero irb120_robotiq85_gazebo_moveit_rviz.launch
   
  De esta forma, ya he conseguido que me lanze correctamente el brazo y la pinza.
